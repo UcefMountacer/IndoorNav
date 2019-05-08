@@ -87,10 +87,5 @@ public class A2 extends Activity implements SensorEventListener{
         size = arrayList.size();  //atteindre un seuil ou on remet à 1000
 
     }
-
-
-
-
-
 }
 
