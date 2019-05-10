@@ -10,6 +10,3 @@ F = 0.0013*x.^3 - 0.1431*x.^2 + 4.7536*x + 14.353;
 
 end
 
-%there is a fuckin problem here !!!!!!
-%from 28m to 78m, the freq decreased
-%this function is then unpredictable
